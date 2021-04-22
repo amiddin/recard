@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Lesson5_recard_201853004_A"
